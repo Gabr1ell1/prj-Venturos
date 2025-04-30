@@ -1,0 +1,15 @@
+:root{
+    --branco: #ffffff;
+    --preto: #272727;
+    --azul: #186ff1;
+    --cinza: #e7e5e510;
+    --verde: #17571D;
+}
+*{margin: 0; padding: 0; box-sizing: border-box;}
+body{
+    background-color: var(--branco);
+}
+body, input, textarea,button{
+    font-size: 1rem; 
+    font-family: sans-serif;
+}

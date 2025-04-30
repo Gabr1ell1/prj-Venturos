@@ -1,0 +1,24 @@
+{
+  "usuarios": [
+    {
+      "id": "8a87",
+      "Nome": "Gabrielly Nascimento Bneto",
+      "DataNasc": "2001-11-11",
+      "Endereco": "Rua margarida 788 - São João",
+      "Cidade": "João Pessoa",
+      "Telefone": "(11) 56789-0345",
+      "Email": "gabyssnassser@gmail.com",
+      "Senha": "1234"
+    },
+    {
+      "id": "7ce7",
+      "Nome": "Karinne Angelo",
+      "DataNasc": "2000-02-25",
+      "Endereco": "Rua Nordestina 28 - Vila Olímpia",
+      "Cidade": "Mogi das cruzes",
+      "Telefone": "(11) 56789-3325",
+      "Email": "kaahAnjo@gmail.com",
+      "Senha": "12345"
+    }
+  ]
+}
