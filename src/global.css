@@ -1,9 +1,10 @@
 :root{
     --branco: #ffffff;
     --preto: #272727;
-    --azul: #186ff1;
-    --cinza: #e7e5e510;
-    --verde: #17571D;
+    --verde: #17571D; 
+    --verde-claro: #7BA63C; 
+    --cinza: #D9D9D9; 
+    --vermelho:#CC2F21;
 }
 *{margin: 0; padding: 0; box-sizing: border-box;}
 body{
