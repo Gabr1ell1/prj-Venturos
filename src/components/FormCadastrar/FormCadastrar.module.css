@@ -2,7 +2,7 @@
     background-image: url('/public/vite.svg');
 }
 .MDBBtn{
-    background-color: var(--verde);
+        background-color: var(--verde-claro);
 }
 .textoCadastro{
     display: flex;
